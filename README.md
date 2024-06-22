@@ -1,2 +1,3 @@
 # Electrical_Water_Heater
-Made by Aly Mohamed and Ezzeldeen Amr
+Project made by Aly Mohamed and Ezzeldeen Amr as final project for AMIT Embedded Systems Diploma
+
